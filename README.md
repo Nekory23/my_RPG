@@ -1,6 +1,5 @@
 # my_RPG
-
-{EPITECH} | First year | C Graphical Programming project
+# {EPITECH} | First year | C Graphical Programming project
 
 This project is one of the freest project of your first year. Create your own RPG.
 Your main challenge for this game will be to create a complete product using everything that you and your
@@ -28,7 +27,9 @@ See the subject for further details !
 
 ========================
 
-2nd semester C Graphical programming unit
+## 2nd semester C Graphical programming unit
+
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
 Grade : B
 
@@ -88,7 +89,5 @@ Mark: 85
 - Project management (2 / 4) :
 - Student's opinion (3 / 4) :
 - Coherent sizes (2 / 2) :
-
-Made with Quentin TREHEUX (LuciferBahamut)
 
 Beware of -42 epitech students !
