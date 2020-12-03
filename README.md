@@ -29,7 +29,9 @@ See the subject for further details !
 
 ## 2nd semester C Graphical programming unit
 
-Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
+Made with :
+* Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
+* Archibald ROULET ([Sh4llower](https://github.com/Sh4llower))
 
 Grade : B
 
